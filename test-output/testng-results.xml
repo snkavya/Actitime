@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[title is matching]]>
+    </line>
+    <line>
+      <![CDATA[version is matching]]>
+    </line>
+    <line>
+      <![CDATA[title is matching]]>
+    </line>
+    <line>
+      <![CDATA[title is matching]]>
+    </line>
+    <line>
+      <![CDATA[title is matching]]>
+    </line>
+    <line>
+      <![CDATA[element is found]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="96045" started-at="2019-05-25T13:43:39Z" finished-at="2019-05-25T13:45:15Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="96045" started-at="2019-05-25T13:43:39Z" finished-at="2019-05-25T13:45:15Z">
+      <class name="scripts.Validloginlogout">
+        <test-method status="PASS" signature="openappln()[pri:0, instance:scripts.Validloginlogout@725bef66]" name="openappln" is-config="true" duration-ms="24560" started-at="2019-05-25T19:14:16Z" finished-at="2019-05-25T19:14:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openappln -->
+        <test-method status="PASS" signature="testValidloginlogout()[pri:0, instance:scripts.Validloginlogout@725bef66]" name="testValidloginlogout" duration-ms="6001" started-at="2019-05-25T19:14:40Z" finished-at="2019-05-25T19:14:46Z">
+          <reporter-output>
+            <line>
+              <![CDATA[title is matching]]>
+            </line>
+            <line>
+              <![CDATA[title is matching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testValidloginlogout -->
+        <test-method status="PASS" signature="closeaplln()[pri:0, instance:scripts.Validloginlogout@725bef66]" name="closeaplln" is-config="true" duration-ms="2769" started-at="2019-05-25T19:14:46Z" finished-at="2019-05-25T19:14:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeaplln -->
+      </class> <!-- scripts.Validloginlogout -->
+      <class name="scripts.Verifyactitimeversion">
+        <test-method status="PASS" signature="openappln()[pri:0, instance:scripts.Verifyactitimeversion@6833ce2c]" name="openappln" is-config="true" duration-ms="12450" started-at="2019-05-25T19:13:39Z" finished-at="2019-05-25T19:13:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openappln -->
+        <test-method status="PASS" signature="testVerifyactitimeversion()[pri:0, instance:scripts.Verifyactitimeversion@6833ce2c]" name="testVerifyactitimeversion" duration-ms="20344" started-at="2019-05-25T19:13:51Z" finished-at="2019-05-25T19:14:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[title is matching]]>
+            </line>
+            <line>
+              <![CDATA[version is matching]]>
+            </line>
+            <line>
+              <![CDATA[title is matching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testVerifyactitimeversion -->
+        <test-method status="PASS" signature="closeaplln()[pri:0, instance:scripts.Verifyactitimeversion@6833ce2c]" name="closeaplln" is-config="true" duration-ms="4105" started-at="2019-05-25T19:14:11Z" finished-at="2019-05-25T19:14:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeaplln -->
+      </class> <!-- scripts.Verifyactitimeversion -->
+      <class name="scripts.Invalidlogin">
+        <test-method status="PASS" signature="openappln()[pri:0, instance:scripts.Invalidlogin@2aaf7cc2]" name="openappln" is-config="true" duration-ms="19822" started-at="2019-05-25T19:14:49Z" finished-at="2019-05-25T19:15:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openappln -->
+        <test-method status="PASS" signature="testInvalidlogin()[pri:0, instance:scripts.Invalidlogin@2aaf7cc2]" name="testInvalidlogin" duration-ms="4062" started-at="2019-05-25T19:15:09Z" finished-at="2019-05-25T19:15:13Z">
+          <reporter-output>
+            <line>
+              <![CDATA[element is found]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testInvalidlogin -->
+        <test-method status="PASS" signature="closeaplln()[pri:0, instance:scripts.Invalidlogin@2aaf7cc2]" name="closeaplln" is-config="true" duration-ms="1913" started-at="2019-05-25T19:15:13Z" finished-at="2019-05-25T19:15:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeaplln -->
+      </class> <!-- scripts.Invalidlogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
